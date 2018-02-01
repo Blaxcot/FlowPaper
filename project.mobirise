@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psynetflowpaper.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11",
     "versionPublish": "4.6.3",
     "name": "Template",
@@ -135,7 +135,7 @@
           },
           "title": "<br>Intuitive Testing That Works&nbsp;",
           "meta": "",
-          "text": "<p>Find out where your weak and strong points are</p><p>Work out what to do to strengthen your weakness and build on your dtrength</p>",
+          "text": "<p>Find out where your weak and strong points are</p><p>Work out what to do to strengthen your weakness and build on your strength</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -353,9 +353,9 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "<br>MOBIRISE FREE BOOTSTRAP TEMPLATE",
-          "meta": "Free and easy-to-use bootstrap theme",
-          "text": "<p>Mobirise Template is a free bootstrap template for any business, portfolio websites or blogs. Great for product, services landing pages, it is 100% mobile-friendly and looks amazing on any device. The theme includes a lot of rich features and addons that you can use as a great starting point for your next Bootstrap based project. The template is free for commercial and personal use; backlinks are not required but always appreciated.</p><p><br></p>",
+          "title": "<br>PSYNET INTUITIVE TESTING",
+          "meta": "Leaders in Corporate Psychological Evaluation and Testing",
+          "text": "<p>Find out where your weak and strong points are\r.</p><p>Work out what to do to strengthen your weakness and build on your strength.</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -410,13 +410,13 @@
           "_anchor": "video2-6",
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/one-page-2509x1670-22-1400x932-87.jpg",
+              "src": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-bk1-600x400.png",
               "class": "mbr-figure__img",
               "width": 1400,
-              "link": "https://mobirise.com/bootstrap-template/one-page.html",
+              "link": "https://blaxcot.github.io",
               "alt": "",
               "title": "",
-              "linkInNewWindow": "on",
+              "linkInNewWindow": false,
               "active": true
             },
             "video": {
@@ -427,7 +427,7 @@
           "_params": {
             "showText": true
           },
-          "text": "The included one-page demo comes with a fresh and catchy look. Parallax background scrolling makes it smooth and elegant. The template offers subtle colors for buttons and fonts that make it look professional."
+          "text": "Book 1 is a compilation of the first ten visual evaluation cards."
         },
         {
           "_name": "image2",
