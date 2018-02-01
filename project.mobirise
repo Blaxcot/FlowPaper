@@ -58,7 +58,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
@@ -84,7 +84,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">PSYNET INTUITIVE <br>TESTING</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">FlowPaper<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blog.html\" target=\"_blank\">Blog</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynet_flowpaper.html\" target=\"_blank\">FlowPapers<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">Blog<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact_form.html\" target=\"_blank\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contact</a></li>  ",
           "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n"
         },
@@ -611,7 +611,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
@@ -637,7 +637,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">PSYNET INTUITIVE <br>TESTING</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">FlowPaper<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blog.html\" target=\"_blank\">Blog</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynet_flowpaper.html\" target=\"_blank\">FlowPapers<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">Blog<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact_form.html\" target=\"_blank\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contact</a></li>  ",
           "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n",
           "_anchor": "ext_menu-u"
@@ -738,8 +738,8 @@
               "size": 0
             }
           },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "SYSTEMATIC INTUITIVE TESTING",
+          "caption1": "<b>Abstract:\n</b><br>At Philips Industrial Electronic's which develops complex, software intensive systems for production line control, we have applied a custom testing approach to systems integration. Typically, we develop a basic system<a href=\"http://ieeexplore.ieee.org/document/406764/\"> [more...]</a>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -758,8 +758,8 @@
               "size": 0
             }
           },
-          "title2": "RESPONSIVE",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "CRITIQUING SOFTWARE SPECIFICATIONS",
+          "caption2": "<b>Abstract:\n</b><br>The authors describe how the knowledge of expert-systems analysts is being input to use in an automated critic for specification debugging. They are working on a system, named Kate, that tries to acquire a problem specification that includes a description of the objects, transitions (actions), and constraints of the intended system. <a href=\"http://ieeexplore.ieee.org/document/10002/\">[more...]</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -926,7 +926,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
@@ -952,7 +952,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">PSYNET INTUITIVE <br>TESTING</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">FlowPaper<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blog.html\" target=\"_blank\">Blog</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynet_flowpaper.html\" target=\"_blank\">FlowPapers<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">Blog<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact_form.html\" target=\"_blank\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contact</a></li>  ",
           "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n",
           "_anchor": "ext_menu-r"
@@ -1055,7 +1055,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
@@ -1081,7 +1081,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">PSYNET INTUITIVE <br>TESTING</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">FlowPaper<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Blog.html\" target=\"_blank\">Blog</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynet_flowpaper.html\" target=\"_blank\">FlowPapers<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">Blog<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact_form.html\" target=\"_blank\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contact</a></li>  ",
           "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n",
           "_anchor": "ext_menu-0"
