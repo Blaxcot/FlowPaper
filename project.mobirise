@@ -21,7 +21,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 38,
+    "uniqCompNum": 39,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -491,6 +491,56 @@
           "text": "<p>We are so certain that benefits from one of our consultations</p><p>will leave you wanting more that we offer the first one</p><p>TOTALY FREE.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Contact_form.html\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
           "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
+          "text1": "<strong>ADDRESS</strong><br>New York<br>NY, 10003<br><br>\n<strong>CONTACTS</strong><br>\nEmail: ogotree@gmail.com<br>\nPhone: +1 6464698137<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"index.html\">H</a>ome</li><li><a class=\"mbr-contacts__link text-gray\" href=\"psynet_flowpaper.html\">F</a>lowPaper</li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">C</a>ontact</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ogotree@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-y"
         },
         {
           "_name": "footer1",
