@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psynetflowpaper.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11",
     "versionPublish": "4.6.3",
     "name": "Template",
@@ -77,8 +77,8 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.freeforums.net/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">PSYNET INTUITIVE <br>TESTING</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">Psynet FlowPaper<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/slider.html\" target=\"_blank\">SLIDER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/video-background.html\" target=\"_blank\">VIDEO BG</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/blog.html\" target=\"_blank\">BLOG</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.freeforums.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUR LINK HERE</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">FlowPaper<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/blog.html\" target=\"_blank\">Blog</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.freeforums.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contact</a></li>  ",
           "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n"
         },
         {
@@ -127,9 +127,9 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.7"
           },
-          "title": "<br>FREE MOBIRISE TEMPLATE",
+          "title": "<br>Intuitive Testing That Works&nbsp;",
           "meta": "",
-          "text": "<p>Make your own bootstrap-based site in minutes!</p><p>Original Template Created By Mobirise Recreated by STC Admin and Added \"Project.Mobirise File\"</p>",
+          "text": "<p>Find out where your weak and strong points are</p><p>Work out what to do to strengthen your weakness and build on your dtrength</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -679,8 +679,8 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.freeforums.net/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">PSYNET INTUITIVE <br>TESTING</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">Psynet FlowPaper<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/slider.html\" target=\"_blank\">SLIDER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/video-background.html\" target=\"_blank\">VIDEO BG</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/blog.html\" target=\"_blank\">BLOG</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.freeforums.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUR LINK HERE</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"psynetflowpaper.html\" target=\"_blank\">FlowPaper<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/blog.html\" target=\"_blank\">Blog</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.freeforums.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contact</a></li>  ",
           "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n",
           "_anchor": "ext_menu-0"
         },
