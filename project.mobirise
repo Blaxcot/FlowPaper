@@ -13,7 +13,8 @@
         "#2c2c2c",
         "#e9f8ff",
         "#c7b4b4",
-        "#feffff"
+        "#feffff",
+        "#fe7418"
       ]
     },
     "favicon": "",
@@ -681,14 +682,26 @@
             "overlayOpacity": 0.5
           },
           "title": "What Is Intuitive Testing?",
-          "text": "Let your weakness become your strength",
+          "text": "Let your weakness become your strength.<br><i>Learn how to understand, and make what's in you control what's out there</i>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-w"
+          "_anchor": "header4-w",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#fe7418"
+            },
+            "I": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_inherit": "features1",
