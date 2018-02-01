@@ -21,7 +21,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 37,
+    "uniqCompNum": 38,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -403,69 +403,51 @@
           "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n"
         },
         {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
           "_params": {
-            "autoplay": true,
+            "fullWidth": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "noGutter": false,
+            "showText": true,
             "showBullets": true,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-600x400.png",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
+            "bgColor": "#e9f8ff",
+            "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-bk1-600x400.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 2",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "thumb": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-bk1-600x400-600x400.png",
+                "alt": "",
+                "caption": "<a href=\"https://blaxcot.github.io\" class=\"text-white\">Intuitive test cards 1 - 9</a>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-600x400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-600x400-599x400.png",
+                "alt": "",
+                "caption": "<a href=\"https://blaxcot.github.io\" class=\"text-white\">Intuitive test cards 10 - ?</a>",
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-old-new-600x400.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "thumb": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-old-new-600x400-600x400.png",
+                "alt": "",
+                "caption": "<a href=\"https://blaxcot.github.io\" class=\"text-white\">A - B style commparison</a>",
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/flowpaper-web-picnewest-600x400.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "thumb": "@PROJECT_PATH@/assets/images/flowpaper-web-picnewest-600x400-600x400.png",
+                "alt": "",
+                "caption": "<a href=\"https://blaxcot.github.io\" class=\"text-white\">The raw files un-compiled.</a>",
+                "active": true
               }
             ]
           },
-          "articleLayout": true,
+          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
-          "_name": "slider2",
-          "_anchor": "slider2-10",
-          "_styles": {
-            "H1": {
-              "color": "#2c2c2c"
-            }
-          }
+          "_name": "gallery1",
+          "_anchor": "gallery1-11"
         },
         {
           "_styles": {
