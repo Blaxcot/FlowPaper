@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psynetflowpaper.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11",
     "versionPublish": "4.6.3",
     "name": "Template",
@@ -42,7 +42,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -186,9 +188,9 @@
               "size": 0
             }
           },
-          "title1": "ONE PAGE BOOTSTRAP TEMPLATE DEMO",
+          "title1": "BOOK 1<br>",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com/bootstrap-template/one-page.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW DEMO</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://blaxcot.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE<br></a>",
           "media2": {
             "image": {
               "active": true,
