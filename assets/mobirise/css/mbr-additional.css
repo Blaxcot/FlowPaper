@@ -44,7 +44,7 @@
   color: #fff;
 }
 #content5-3 .mbr-article P {
-  color: #494343;
+  color: #ffffff;
 }
 #msg-box3-5 .mbr-header .mbr-header__text {
   text-align: center;
@@ -55,17 +55,11 @@
 #msg-box3-5 .btn {
   font-size: 12px;
 }
-#video2-6 SMALL {
-  font-size: 18px;
+#msg-box3-5 .mbr-article P {
+  color: #ffffff;
 }
-#image2-7 SMALL {
-  font-size: 18px;
-}
-#image2-8 SMALL {
-  font-size: 18px;
-}
-#image2-9 SMALL {
-  font-size: 18px;
+#slider2-10 H1 {
+  color: #2c2c2c;
 }
 #msg-box3-10 .mbr-header .mbr-header__text {
   text-align: center;
@@ -75,6 +69,7 @@
 }
 #msg-box3-10 .mbr-article P {
   text-align: center;
+  color: #ffffff;
 }
 #ext_menu-u .mbr-brand__name {
   font-size: 16px;
