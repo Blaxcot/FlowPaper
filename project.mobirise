@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "psynet_flowpaper.html",
     "versionFirst": "2.11",
     "versionPublish": "4.6.3",
     "name": "Template",
@@ -248,7 +248,7 @@
               "src": "@PROJECT_PATH@/assets/images/flowpaper-web-picnewest-600x400.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "Blaxcot/RawCara.github.io",
+              "link": "/RawCara.github.io",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -438,7 +438,7 @@
                 "image": "@PROJECT_PATH@/assets/images/flowpaper-web-picnewest-600x400.png",
                 "thumb": "@PROJECT_PATH@/assets/images/flowpaper-web-picnewest-600x400-600x400.png",
                 "alt": "",
-                "caption": "<a href=\"https://blaxcot.github.io\" class=\"text-white\">The raw files un-compiled.</a>",
+                "caption": "<a href=\"/RawCara.github.io\" class=\"text-white\">The raw files un-compiled.</a>",
                 "active": true
               }
             ]
@@ -1219,7 +1219,7 @@
           },
           "title4": "Raw New Files",
           "caption4": "The raw files un-compiled.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://blaxcot.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"/RawCara.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "media5": {
             "image": {
               "active": true,
