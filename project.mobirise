@@ -117,9 +117,9 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "0",
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/iphone-6-458153-1920-1920x1285-16-1920x1285-59.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -129,8 +129,8 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#eb6b56",
+            "overlayOpacity": "0.4"
           },
           "title": "<br>Intuitive Testing That Works&nbsp;",
           "meta": "",
