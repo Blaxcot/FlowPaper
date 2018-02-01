@@ -46,24 +46,6 @@
 #content5-3 .mbr-article P {
   color: #494343;
 }
-#content5-4 .mbr-header .mbr-header__text {
-  text-align: left;
-  color: #000000;
-  font-size: 17px;
-}
-#content5-4 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-4 .mbr-article {
-  color: #fff;
-}
-#content5-4 .mbr-article P {
-  color: #494343;
-}
-#content5-4 .mbr-article BLOCKQUOTE {
-  color: #494343;
-}
 #msg-box3-5 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -107,5 +89,20 @@
   color: #ffffff;
 }
 #ext_menu-0 .mbr-brand__name a {
+  font-size: 18px;
+}
+#ext_menu-r .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-r.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-r .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-r .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-r .mbr-brand__name a {
   font-size: 18px;
 }
