@@ -424,7 +424,7 @@
                 "image": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-600x400.png",
                 "thumb": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-600x400-599x400.png",
                 "alt": "",
-                "caption": "<a href=\"psytest.github.io\" class=\"text-white\" target=\"_blank\">Intuitive test cards 10 - ?</a>",
+                "caption": "<a href=\"/psytest.github.io\" class=\"text-white\" target=\"_blank\">Intuitive test cards 10 - ?</a>",
                 "active": false
               },
               {
