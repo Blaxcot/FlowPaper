@@ -266,7 +266,7 @@
           },
           "title4": "Raw New Files",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"/RawCara.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"/RawCara.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -438,7 +438,7 @@
                 "image": "@PROJECT_PATH@/assets/images/flowpaper-web-picnewest-600x400.png",
                 "thumb": "@PROJECT_PATH@/assets/images/flowpaper-web-picnewest-600x400-600x400.png",
                 "alt": "",
-                "caption": "<a href=\"/RawCara.github.io\" class=\"text-white\">The raw files un-compiled.</a>",
+                "caption": "<a href=\"/RawCara.github.io\" class=\"text-white\" target=\"_blank\">The raw files un-compiled.</a>",
                 "active": true
               }
             ]
@@ -1233,7 +1233,7 @@
           },
           "title2": "Book 2",
           "caption2": "Intuitive test cards 10 - ?\n<br>First compiled on January 26th 2016",
-          "button2": "<a data-app-btn=\"true\" href=\"psynettestbook2.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"/psytest.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -1279,7 +1279,7 @@
           },
           "title4": "Raw New Files",
           "caption4": "The raw files un-compiled.",
-          "button4": "<a data-app-btn=\"true\" href=\"/RawCara.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"/RawCara.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media5": {
             "image": {
               "active": true,
