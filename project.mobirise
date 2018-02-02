@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "psynet_flowpaper.html",
     "versionFirst": "2.11",
     "versionPublish": "4.6.3",
     "name": "Template",
@@ -241,7 +241,7 @@
           },
           "title3": "OLD / NEW Comparisons",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://blaxcot.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"/psytestoldnew.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -431,7 +431,7 @@
                 "image": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-old-new-600x400.png",
                 "thumb": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-old-new-600x400-600x400.png",
                 "alt": "",
-                "caption": "<a href=\"https://blaxcot.github.io\" class=\"text-white\">A - B style commparison</a>",
+                "caption": "<a href=\"/psytestoldnew.github.io\" class=\"text-white\" target=\"_blank\">A - B style commparison</a>",
                 "active": false
               },
               {
@@ -1256,7 +1256,7 @@
           },
           "title3": "OLD / NEW Comparisons",
           "caption3": "A - B style commparison where New are the upgraded high def sharper looking versions",
-          "button3": "<a data-app-btn=\"true\" href=\"https://blaxcot.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"/psytestoldnew.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media4": {
             "image": {
               "active": true,
