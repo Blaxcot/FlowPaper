@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psynet_flowpaper.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11",
     "versionPublish": "4.6.3",
     "name": "Template",
@@ -21,7 +21,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -349,9 +349,9 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": true,
-            "overlay": false,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlay": true,
+            "overlayColor": "#f7da64",
+            "overlayOpacity": "0.3"
           },
           "title": "<br>PSYNET INTUITIVE TESTING",
           "meta": "Leaders in Corporate Psychological Evaluation and Testing",
@@ -393,9 +393,9 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#f7da64",
+            "overlayOpacity": "0.3"
           },
           "title": "MODERN STYLES",
           "meta": "By John Smith posted July 30, 2015",
@@ -559,6 +559,67 @@
             "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2018 Created by Spirit Web Architect"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Leaders in Corporate Psychological Evaluation and Testing",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "PSYNET INTUITIVE TESTING",
+                "contentAlign": "center",
+                "text": "Leaders in Corporate Psychological Evaluation and Testing",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "PSYNET INTUITIVE TESTING",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-13",
+          "_styles": {
+            "P": {
+              "font-size": "25px",
+              "color": "#28324e"
+            },
+            "H1": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
