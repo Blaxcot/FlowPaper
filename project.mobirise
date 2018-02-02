@@ -193,7 +193,7 @@
           },
           "title1": "BOOK 1<br>",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://blaxcot.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CLICK HERE<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://blaxcot.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE<br></a>",
           "media2": {
             "image": {
               "active": true,
@@ -217,7 +217,7 @@
           },
           "title2": "BOOK 2",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://blaxcot.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"/psynettestbook2.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -424,7 +424,7 @@
                 "image": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-600x400.png",
                 "thumb": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-600x400-599x400.png",
                 "alt": "",
-                "caption": "<a href=\"https://blaxcot.github.io\" class=\"text-white\">Intuitive test cards 10 - ?</a>",
+                "caption": "<a href=\"psynettestbook2.github.io\" class=\"text-white\" target=\"_blank\">Intuitive test cards 10 - ?</a>",
                 "active": false
               },
               {
@@ -1129,10 +1129,9 @@
               "src": "@PROJECT_PATH@/assets/images/cig-logo-1-99x102.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "https://blaxcot.github.io/",
+              "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1146,7 +1145,7 @@
           },
           "title1": "Book 1",
           "caption1": "Intuitive test cards 1 - 9<br>First compiled on January 26th 2016",
-          "button1": "<a data-app-btn=\"true\" href=\"https://blaxcot.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a> ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://blaxcot.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a> ",
           "media2": {
             "image": {
               "active": true,
@@ -1173,7 +1172,7 @@
           },
           "title2": "Book 2",
           "caption2": "Intuitive test cards 10 - ?\n<br>First compiled on January 26th 2016",
-          "button2": "<a data-app-btn=\"true\" href=\"https://blaxcot.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"psynettestbook2.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media3": {
             "image": {
               "active": true,
