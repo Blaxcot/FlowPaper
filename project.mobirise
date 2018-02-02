@@ -217,7 +217,7 @@
           },
           "title2": "BOOK 2",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"/psynettestbook2.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"/psytest.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -424,7 +424,7 @@
                 "image": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-600x400.png",
                 "thumb": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-600x400-599x400.png",
                 "alt": "",
-                "caption": "<a href=\"/psynettestbook2.github.io\" class=\"text-white\" target=\"_blank\">Intuitive test cards 10 - ?</a>",
+                "caption": "<a href=\"psytest.github.io\" class=\"text-white\" target=\"_blank\">Intuitive test cards 10 - ?</a>",
                 "active": false
               },
               {
