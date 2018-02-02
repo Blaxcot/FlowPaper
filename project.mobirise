@@ -122,7 +122,7 @@
             "paddingTop": "0",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper1920-1286-1920x1286.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -340,7 +340,7 @@
             "paddingTop": 3,
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper1920-1286-1920x1286.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -384,7 +384,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper1920-1286-1920x1286.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -474,7 +474,7 @@
             "paddingTop": "3",
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper1920-1286-1920x1286.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -571,8 +571,8 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/wallpaper1920-1286-1920x1286.png",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -582,7 +582,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wallpaper1920-1286-1920x1286.png",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -593,8 +593,8 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/flowpaperbground-960x643.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/wallpaper1920-1286-1920x1286.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
