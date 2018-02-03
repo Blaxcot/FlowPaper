@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psynet_flowpaper.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11",
     "versionPublish": "4.6.3",
     "name": "Template",
@@ -152,7 +152,7 @@
             "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 4,
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -221,12 +221,13 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-old-new-600x400.png",
+              "src": "@PROJECT_PATH@/assets/images/flowpaper-book3-600x400.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "/psynettestbook3.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -239,9 +240,9 @@
               "size": 0
             }
           },
-          "title3": "OLD / NEW Comparisons",
+          "title3": "BOOK 3",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"/psytestoldnew.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"/psynettestbook3.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -270,9 +271,13 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "images/blocks.png",
+              "src": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-old-new-600x400.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "/psytestoldnew.github.io",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -285,9 +290,9 @@
               "size": 0
             }
           },
-          "title5": "TRENDY WEBSITE BLOCKS",
+          "title5": "OLD / NEW Comparisons",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"/psytestoldnew.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE<br></a>",
           "media6": {
             "image": {
               "active": true,
