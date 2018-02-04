@@ -32,25 +32,12 @@
   text-align: center;
   font-size: 16px;
 }
-#content5-3 .mbr-header .mbr-header__text {
-  text-align: left;
-  color: #000000;
-}
-#content5-3 .mbr-header .mbr-header__subtext {
-  text-align: left;
-  color: #494343;
-}
-#content5-3 .mbr-article {
-  color: #fff;
-}
-#content5-3 .mbr-article P {
-  color: #ffffff;
-}
 #msg-box3-5 .mbr-header .mbr-header__text {
   text-align: center;
 }
 #msg-box3-5 .mbr-header .mbr-header__subtext {
   text-align: center;
+  color: #000000;
 }
 #msg-box3-5 .btn {
   font-size: 12px;

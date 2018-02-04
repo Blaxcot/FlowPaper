@@ -492,59 +492,13 @@
           "_anchor": "features1-15"
         },
         {
-          "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "text-align": "left",
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
               "color": "#000000"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "left",
-              "color": "#494343"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article P": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "content5",
-          "_anchor": "content5-3",
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper1920-1286-1920x1286.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#f7da64",
-            "overlayOpacity": "0.3"
-          },
-          "title": "<br>PSYNET INTUITIVE TESTING",
-          "meta": "Leaders in Corporate Psychological Testing and Evaluation",
-          "text": "<p>Find out where your weak and strong points are\n.</p><p>Work out what to do to strengthen your weakness and build on your strength.</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
             },
             ".btn": {
               "font-size": "12px"
@@ -556,13 +510,13 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-5",
           "_params": {
-            "showTitle": false,
-            "showMeta": false,
+            "showTitle": true,
+            "showMeta": true,
             "showCaption": true,
             "showText": true,
             "showButton": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/wallpaper1920-1286-1920x1286.png",
             "parallax": true,
@@ -577,9 +531,9 @@
             "overlayColor": "#f7da64",
             "overlayOpacity": "0.3"
           },
-          "title": "MODERN STYLES",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Identify the source of problems and obstacles instead of focusing on the symptoms.\n</p><p>Leverage strengths first and minimize weaknesses second.\n</p><p>Believe that the most important part of Human Capital is the human.\n</p><p>Making the hard choices always improves the organization and often the lives of those adversely affected by change.</p>",
+          "title": "PSYNET INTUITIVE TESTING",
+          "meta": "Leaders in Corporate Psychological Testing and Evaluation",
+          "text": "<p>Find out where your weak and strong points are .\r</p><p>Work out what to do to strengthen your weakness and build on your strength.</p><p>Identify the source of problems and obstacles instead of focusing on the symptoms.\n</p><p>Leverage strengths first and minimize weaknesses second.\n</p><p>Believe that the most important part of Human Capital is the human.\n</p><p>Making the hard choices always improves the organization and often the lives of those adversely affected by change.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Contact_form.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Find Out More</a>",
           "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n"
         },
