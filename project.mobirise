@@ -581,7 +581,7 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Leaders in Corporate Psychological Evaluation and Testing",
+                "title": "Leaders in Corporate Psychological Testing and Evaluation",
                 "contentAlign": "center",
                 "text": "",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
@@ -594,7 +594,7 @@
                 "showTitle": true,
                 "title": "PSYNET INTUITIVE TESTING",
                 "contentAlign": "center",
-                "text": "Leaders in Corporate Psychological Evaluation and Testing",
+                "text": "Leaders in Corporate Psychological Testing and Evaluation<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
               },
               {
