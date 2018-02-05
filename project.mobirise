@@ -172,7 +172,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-bk1-600x400.png",
+              "src": "@PROJECT_PATH@/assets/images/flowpaper-web-pic-bk1-1-600x400.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "https://blaxcot.github.io/",
@@ -197,12 +197,13 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-600x400.png",
+              "src": "@PROJECT_PATH@/assets/images/flowpaper-web-pic2-1-600x400.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "/psytest.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -351,7 +352,8 @@
               "width": 600,
               "link": "/psynettestbook5.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -400,7 +402,8 @@
               "width": 600,
               "link": "/psytestoldnew.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
