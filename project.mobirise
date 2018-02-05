@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "psynet_flowpaper.html",
     "versionFirst": "2.11",
     "versionPublish": "4.6.3",
     "name": "Template",
@@ -1328,9 +1328,10 @@
               "src": "@PROJECT_PATH@/assets/images/cig-logo-1-99x102.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://blaxcot.github.io/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1351,9 +1352,10 @@
               "src": "@PROJECT_PATH@/assets/images/cig-logo-2-99x102.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "/psytest.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1370,7 +1372,7 @@
             }
           },
           "title2": "Book 2",
-          "caption2": "Intuitive test cards 10 - ?\n<br>First compiled on January 26th 2016",
+          "caption2": "Intuitive test cards 10 - 18<br>First compiled on January 26th 2016",
           "button2": "<a data-app-btn=\"true\" href=\"/psytest.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media3": {
             "image": {
@@ -1378,9 +1380,10 @@
               "src": "@PROJECT_PATH@/assets/images/cig-logo-3-99x102.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "/psytestoldnew.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1401,9 +1404,10 @@
               "src": "@PROJECT_PATH@/assets/images/cig-logo-4-99x102.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "/RawCara.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1513,7 +1517,7 @@
             }
           },
           "title1": "Book 3",
-          "caption1": "Intuitive test cards 1 - 9<br>First compiled on January 26th 2016",
+          "caption1": "Intuitive test cards 19 - 27<br>First compiled on January 26th 2016",
           "button1": "<a data-app-btn=\"true\" href=\"/psynettestbook3.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a> ",
           "media2": {
             "image": {
@@ -1521,9 +1525,10 @@
               "src": "@PROJECT_PATH@/assets/images/cig-logo-2-99x102.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "/psynettestbook4.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1539,18 +1544,19 @@
               "color": "#c7b4b4"
             }
           },
-          "title2": "Coming soon",
-          "caption2": "Intuitive test cards 10 - ?\n<br>First compiled on January 26th 2016",
-          "button2": "<a data-app-btn=\"true\" href=\"/psytest.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
+          "title2": "Book 4",
+          "caption2": "Intuitive test cards 28-36&nbsp;<br>First compiled on January 26th 2016",
+          "button2": "<a data-app-btn=\"true\" href=\"/psynettestbook4.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media3": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/cig-logo-3-99x102.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "/psynettestbook5.github.io/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1562,9 +1568,9 @@
               "size": 0
             }
           },
-          "title3": "Coming soon",
-          "caption3": "A - B style commparison where New are the upgraded high def sharper looking versions",
-          "button3": "<a data-app-btn=\"true\" href=\"/psytestoldnew.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
+          "title3": "Book 5<br>",
+          "caption3": "Intuitive test cards 37-40&nbsp;<br>First compiled on January 26th 2016",
+          "button3": "<a data-app-btn=\"true\" href=\"/psynettestbook5.github.io/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>",
           "media4": {
             "image": {
               "active": true,
