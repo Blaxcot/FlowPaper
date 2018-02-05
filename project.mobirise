@@ -251,7 +251,8 @@
               "width": 600,
               "link": "/psynettestbook4.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -350,7 +351,8 @@
               "width": 600,
               "link": "psynettestbook5.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -374,7 +376,8 @@
               "width": 600,
               "link": "/RawCara.github.io",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
