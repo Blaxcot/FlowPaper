@@ -349,10 +349,9 @@
               "src": "@PROJECT_PATH@/assets/images/flowpaper-book5-600x400.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "psynettestbook5.github.io",
+              "link": "/psynettestbook5.github.io",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -367,7 +366,7 @@
           },
           "title1": "BOOK 5<br>(37-40)",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"psynettestbook5.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"/psynettestbook5.github.io\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE<br></a>",
           "media2": {
             "image": {
               "active": true,
